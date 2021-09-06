@@ -4,7 +4,7 @@ I'm Uğur Can Altun from Ankara, Turkey; and I'm a sophomore student at Bilkent 
 
 ## Skills and Experience 🔨
 
-🌱 I’m currently learning and have experience in 👷:
+🌱 I’m currently learning, as learning is an infinite process, and have experience in 👷:
 
 * 💻 **Java**, **JavaFX**, **Scene Builder**
 * 💻 **Python**
