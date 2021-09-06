@@ -2,8 +2,6 @@
 
 I'm Uğur Can Altun from Ankara, Turkey; and I'm a sophomore student at Bilkent University Computer Science!🎓
 
-<br>
-
 ## Skills and Experience 🔨
 
 🌱 I’m currently learning and have experience in 👷:
@@ -14,8 +12,6 @@ I'm Uğur Can Altun from Ankara, Turkey; and I'm a sophomore student at Bilkent 
 * 💻 **JavaScript**, **HTML**, **CSS**
 * 💻 **C++**
 * 💾 **Verilog**
-
-<br>
 
 ### 🎹 Languages and Tools
 
@@ -30,15 +26,6 @@ I'm Uğur Can Altun from Ankara, Turkey; and I'm a sophomore student at Bilkent 
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
 
-<br>
-
 ## 📊 My GitHub Stats
 
-<br>
-
 [![Uğur Can Altun's Github Stats](https://github-readme-stats.vercel.app/api?username=ugurcanaltun&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
