@@ -11,7 +11,6 @@ I'm Uğur Can Altun from Ankara, Turkey; and I'm a sophomore student at Bilkent 
 * 📱 **Android Studio**
 * 💻 **JavaScript**, **HTML**, **CSS**
 * 💻 **C++**
-* 💾 **Verilog**
 
 ### 🎹 Languages and Tools
 
